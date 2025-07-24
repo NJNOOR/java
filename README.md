@@ -17,13 +17,3 @@ This is a simple **Registration Form GUI application** built using **Java Swing*
 - Submit and Reset buttons
 - Displays submitted data on form submission
 
-## 📸 Screenshots
-
-> _You can add screenshots of the application UI here after running it._
-
-## 🚀 How to Run
-
-1. **Clone this repository:**
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
